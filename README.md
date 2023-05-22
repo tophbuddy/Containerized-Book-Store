@@ -1,2 +1,2 @@
-# Containerized-To-Do-List
-A simple containerized To Do list application that's deployed and scaled using Kubernetes
+# Containerized-Book-Store
+A simple Java-based web application with microservices architecture that is deployed to Kubernetes. The application will have two microservices: a Book Service and an Order Service.
